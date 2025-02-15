@@ -1,7 +1,7 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-from PIL import Image
+# import numpy as np
+# import pandas as pd
+# from PIL import Image
 from time import sleep
 
 st.title("streamlit超入門")
